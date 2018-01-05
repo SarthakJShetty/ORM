@@ -18,3 +18,14 @@ This project is in the process of being developed for the effective visualizatio
 - Initially the program requests for the number of nodes involved in the network.
 - Building upon the network of nodes, the relations between the different nodes are assigned (Check the Build Log for a list of assignments that are currently possible.)
 - Following up on the previous relations, the program then assigns the absolute times of the events in between the different nodes.
+
+### Build Log:
+
+#### 12/30/2017
+- Build has not (yet) been configured to handle multiple events leading to a single node.
+
+#### 12/31/2017 (Happy New Year!)
+- Incorporated the last node concept.
+- Can now calculate Critical Path in the forward direction.
+- Need to obtain the Critical Path in the reverse direction to confirm the Critical Path.
+- Working on theory to obtain the Reverse Start Times.
