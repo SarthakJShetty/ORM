@@ -1,10 +1,10 @@
 # Operations-Research
-## Building a program for visualization of Critical Path in Critical Path Method which is an integral tool in Operations Research.
+## Building a program for visualization of Critical Path in Critical Path Method for Operations Research.
 
 ### Introduction
 This project is in the process of being developed for the effective visualization of Critical Path, Best Starting time and Lagging time.
 
-#### This code has not fully developed. Some portions of it are still incomplete.
+#### This code has not been fully developed. Some portions of it are still incomplete. Suggestions for improving the code are always appreciated.
 
 #### Terminologies
 1. Nodes: Symbolize the start or end (sometimes both), of events. A node can be the starting (or terminating) point of one or more events.
