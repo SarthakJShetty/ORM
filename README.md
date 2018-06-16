@@ -40,7 +40,8 @@ This project is in the process of being developed for the effective visualizatio
 - Error encountered when graph of the same name already exists in the same directory.
 
 
-### 06/15/2018
+### 06/16/2018
 - Graphviz has been integrated.
 - Attribute 'shape' of node 0 has been changed to 'doublecircle' to ensure that starting node can be comfortably identified.
 - Interpreter now asks the name to be assigned to the graph.
+- Trying to integrate labels for edges, allignment issues persist.
