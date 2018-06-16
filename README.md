@@ -29,3 +29,18 @@ This project is in the process of being developed for the effective visualizatio
 - Can now calculate Critical Path in the forward direction.
 - Need to obtain the Critical Path in the reverse direction to confirm the Critical Path.
 - Working on theory to obtain the Reverse Start Times.
+
+### 06/14/2018
+- Integrating graphviz for visualization.
+- Fixing Explainer code.
+
+### 06/15/2018
+- Graphviz has been integrated.
+- Functions 'graph_builder' & 'graph_plotter' have also been included.
+- Error encountered when graph of the same name already exists in the same directory.
+
+
+### 06/15/2018
+- Graphviz has been integrated.
+- Attribute 'shape' of node 0 has been changed to 'doublecircle' to ensure that starting node can be comfortably identified.
+- Interpreter now asks the name to be assigned to the graph.
