@@ -1,0 +1,10 @@
+digraph G {
+	node [shape=circle]
+	node [shape=doublecircle]
+	0
+	node [shape=circle]
+	0 -> 1 [label="Forward Pass Time: 1" labelangle=-100.0]
+	0 -> 2 [label="Forward Pass Time: 1" labelangle=-100.0]
+	0 -> 3 [label="Forward Pass Time: 1" labelangle=-100.0]
+	0 -> 4 [label="Forward Pass Time: 1" labelangle=-100.0]
+}
