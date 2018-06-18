@@ -1,4 +1,5 @@
 
+
 # Operations-Research
 ### Building a tool for visualization of Critical Path in Critical Path Method for Operations Research.
 
@@ -19,7 +20,7 @@ This project is in the process of being developed for the effective visualizatio
 
 ### Graphviz Representation:
 
-<img src="https://raw.githubusercontent.com/SarthakJShetty/ORM/master/Results/Graph_Image.jpg" height="75%" width="75%" align="middle">
+<img src="https://raw.githubusercontent.com/SarthakJShetty/ORM/master/Results/Graph_Image.jpg" height="75%" width="75%" align="middle" title="Representation of Graph">
 
 ### Build Log:
 
@@ -47,5 +48,4 @@ This project is in the process of being developed for the effective visualizatio
 - Attribute 'shape' of node 0 has been changed to 'doublecircle' to ensure that starting node can be comfortably identified.
 - Interpreter now asks the name to be assigned to the graph.
 - Trying to integrate labels for edges, allignment issues persist.
-- Graph now has labels!
-- Graph_Image.jpg has also been added.
+- Graph now has labels! (haven't been aligned yet though).
