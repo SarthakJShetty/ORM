@@ -1,5 +1,3 @@
-
-
 # Operations-Research
 ### Building a tool for visualization of Critical Path in Critical Path Method for Operations Research.
 
@@ -49,3 +47,7 @@ This project is in the process of being developed for the effective visualizatio
 - Interpreter now asks the name to be assigned to the graph.
 - Trying to integrate labels for edges, allignment issues persist.
 - Graph now has labels! (haven't been aligned yet though).
+
+### 06/25/2018
+- Will be integrating a file handling system that converts .pdf into .jpeg.
+- Trying to fix ```backward_time()``` function
