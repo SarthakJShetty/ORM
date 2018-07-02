@@ -51,3 +51,8 @@ This project is in the process of being developed for the effective visualizatio
 ### 06/25/2018
 - Will be integrating a file handling system that converts .pdf into .jpeg.
 - Trying to fix ```backward_time()``` function
+- Implementing a ```graph_checker()``` function to check the continuity of the graph.
+
+### 01/07/2018
+- Fixed the ```rel_events()``` and ```abs_events()``` time calculator.
+- Still working on the continuity issue.
