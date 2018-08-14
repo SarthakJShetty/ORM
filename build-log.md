@@ -15,7 +15,7 @@
 
 ### 06/15/2018
 - Graphviz has been integrated.
-- Functions 'graph_builder' & 'graph_plotter' have also been included.
+- Functions ```graph_builder``` & ```graph_plotter``` have also been included.
 - Error encountered when graph of the same name already exists in the same directory.
 
 
@@ -38,3 +38,8 @@
 ### 09/07/2018
 - Fixed the ```leaderNode``` issue. Works great now.
 - Still working on the continuity.
+
+### 12/07/2018
+- Uploaded complex network graph pictures as well.
+- Need to add the reverse time feature as well.
+- Need to then calculate time taken, and then critical path.
