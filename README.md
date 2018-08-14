@@ -29,10 +29,10 @@ This project is in the process of being developed for the effective visualizatio
 ### Graphviz Representation:
 
 <img src="https://raw.githubusercontent.com/SarthakJShetty/ORM/master/Results/Graph_Image.jpg" height="75%" width="75%" align="middle" title="Representation of Graph">
-<caption>Fig 1. Simple network with forward pass times</caption>
+<caption><strong>Fig 1.</strong> Simple network with forward pass times</caption>
 
 <img src="https://raw.githubusercontent.com/SarthakJShetty/ORM/master/Results/Hello/Hello_Graph_Image.png" height="75%" width="75%" align="middle" title="Complex Graph">
-<caption>Fig 2. Complex network with forward pass times</caption>
+<caption><strong>Fig 2.</strong> Complex network with forward pass times</caption>
 
 #### Build-log:
 
